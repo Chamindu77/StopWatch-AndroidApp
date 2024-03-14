@@ -28,14 +28,19 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Technologies Used
 
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- Bootstrap
-- JWT (JSON Web Tokens)
-- Bcrypt.js
-- Axios
+<ul>
+  <li><strong>Language:</strong> Kotlin</li>
+      
+  <li><strong>AndroidX Libraries:</strong>
+    <ul>
+      <li>Core-KTX</li>
+      <li>AppCompat </li>
+      <li>ConstraintLayout </li>
+      <li>JUnit and Espresso</li>
+    </ul>
+  </li>
+  
+</ul>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
